@@ -15,6 +15,7 @@
 
 .navbar a{
     text-decoration: none;
+    color: rgb(153, 28, 70);
 }
 
 .navbar a.nav-selected {
